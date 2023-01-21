@@ -1,4 +1,4 @@
-# Systeme_Expert_Type_de_personnalite
+# Systeme-Expert-Type-de-personnalite
 -----
 Notre système expert va être distiner à l'analyse de la personnalité de l'utilisateur. Il s'agit d'un ensemble de questions dont l'utilisateur doit répondre pour savoir la description adéquate de son personnalité.
 
